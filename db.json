@@ -1,7 +1,7 @@
 {
   "dummy": [
     {
-      "id": "iOS",
+      "id": "ios",
       "result": {
         "minimumSupportedVersion": "2.5.0",
         "minimumSupportedBuild": "1",
@@ -11,7 +11,7 @@
       "success": true
     },
     {
-      "id": "Android",
+      "id": "android",
       "result": {
         "minimumSupportedVersion": "2.5.0",
         "minimumSupportedBuild": "1",
