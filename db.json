@@ -1,0 +1,24 @@
+{
+  "dummy": [
+    {
+      "source": iOS,
+      "result": {
+        "minimumSupportedVersion": "2.5.0",
+        "minimumSupportedBuild": "1",
+        "upgradeMessage": "Please upgrade this app as the version you are using is no longer supported."
+      },
+      "message": "OK",
+      "success": true
+    },
+    {
+      "source": Android,
+      "result": {
+        "minimumSupportedVersion": "2.5.0",
+        "minimumSupportedBuild": "1",
+        "upgradeMessage": "Please upgrade this app as the version you are using is no longer supported."
+      },
+      "message": "OK",
+      "success": true
+    }
+  ]
+}
